@@ -8,7 +8,7 @@ Topics Covered :-
   2.Arrays - for each , map , filter , reduce , map , arrow functions , iterables , Map and Set , weak map , weak   set.  
   3.Destructuring Assignment
   (Evening):-
-  4.Problem statemnets (4 problems)
+  4.Problem statemnets (4 problems):-
 
 
       Problem 1 :- add items to cart, view total price of items and remove ite by its name.
