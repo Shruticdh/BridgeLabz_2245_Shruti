@@ -19,5 +19,16 @@ Topics Covered :-
 
       Problem 4 :- Calculate the frequency of each word in a paragraph of text using reduce. 
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*
+
+Date = 03-12-2024 (Tuesday)
+Topics Covered :-
+(Morning and Evening):-
+1.Arrow Functions
+2.Iterables
+3.Set and WeakSet
+4.Map and WeakMap
+5.Destructuring Assignment      
+
 
 
