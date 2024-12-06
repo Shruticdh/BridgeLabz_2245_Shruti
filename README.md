@@ -9,6 +9,8 @@ Topics Covered :-
   3.Destructuring Assignment
   (Evening):-
   4.Problem statemnets (4 problems)
+
+
       Problem 1 :- add items to cart, view total price of items and remove ite by its name.
 
       Problem 2 :- list the students and their gradeand specify them as pass and fail and print the total no. of passing students name.
