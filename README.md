@@ -32,7 +32,7 @@ Topics Covered :-
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*
 
-Date : 05-12-2024 (Thursday)
+Date = 05-12-2024 (Thursday)
 Topics Covered :- 
 (Morning and Evening):-
 1.Node.js and NPM 
@@ -41,6 +41,19 @@ Topics Covered :-
 4.Interaction - alert , prompt , confirm
 5.Rest parameters and Spread syntax
 6.Variable Scope and Closures
+
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*
+
+Date = 06-12-2024 (Friday)
+Topics Covered :-
+(Morning and Evening) :-
+1.OOPs
+2.Comparisons
+3.Logical and Nullish coalescing operator
+4.Polyfills and transpilers
+5.Recursion and stack 
+6.Event Loop, Event handlers
+
 
 
 
