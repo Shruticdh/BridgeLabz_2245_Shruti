@@ -30,5 +30,17 @@ Topics Covered :-
 4.Map and WeakMap
 5.Destructuring Assignment      
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*
+
+Date : 05-12-2024 (Thursday)
+Topics Covered :- 
+(Morning and Evening):-
+1.Node.js and NPM 
+2.Type Conversion and Use strict
+3.Conditional Branching
+4.Interaction - alert , prompt , confirm
+5.Rest parameters and Spread syntax
+6.Variable Scope and Closures
+
 
 
