@@ -54,6 +54,13 @@ Topics Covered :-
 5.Recursion and stack 
 6.Event Loop, Event handlers
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------*
 
-
+Date = 07-12-2024 (Saturday)
+Topics Covered :-
+(Morning and Evening) :-
+1.IIFE 
+2.NFE 
+3.The "new Function" syntax
+4.Scheduling
 
