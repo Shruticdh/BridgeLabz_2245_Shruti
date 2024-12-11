@@ -55,20 +55,3 @@ Topics Covered :-
 6.Event Loop, Event handlers
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
-
-Date = 07-12-2024 (Saturday)
-Topics Covered :-
-(Morning and Evening) :-
-1.IIFE 
-2.NFE 
-3.The "new Function" syntax
-4.Scheduling
-
-*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
-
-Date = 09-12-2024 (Monday)
-Topic Covered :-
-(Morning and Evening) :-
-1.Decorators and forwarding
-2.Call/apply
-3.Function binding
