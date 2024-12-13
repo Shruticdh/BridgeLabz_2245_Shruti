@@ -6,3 +6,4 @@ let number = arr[i-1] + arr[i-2];
 arr.push(number);
 }
 console.log(arr);
+
