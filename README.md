@@ -112,7 +112,7 @@ Topics Covered :- Js Practice Question
 
 Date = 13-12-2024 (Friday)
 Topics Covered :- Js Practice Question
-(Morning and Evening) :-
+(Morning) :-
 
 30.Create a function that will add two positive numbers of indefinite size. The numbers are received as strings 
   and the result should be also provided as string.
@@ -135,6 +135,10 @@ Topics Covered :- Js Practice Question
  2elements: letter and number of occurrences.
 52.Calculate Fibonacci(500) with high precision (all digits)
 53.Calculate 70! with high precision (all digits)
+
+(Evening) :-
+1. Arrays and Array methods and custom array
+
 
 
 
