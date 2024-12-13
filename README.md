@@ -86,8 +86,8 @@ Topics Covered :-
 Date = 12-12-2024 (Thursday)
 Topics Covered :- Js Practice Question
 (Morning and Evening) :-
-7.Calculate the sum of even numbers greater than 10 and less than 30
-8.Create a function that will convert from Celsius to Fahrenheit
+7. Calculate the sum of even numbers greater than 10 and less than 30
+8. Create a function that will convert from Celsius to Fahrenheit
 9.Create a function that will convert from Fahrenheit to Celsius
 10.Calculate the sum of numbers in an array of numbers
 11.Calculate the average of the numbers in an array of numbers
