@@ -69,16 +69,26 @@ Topics Covered :-
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
 Date = 11-12-2024 (WednesDay)
+
 Topics Covered :-
+
 (Morning):-
+
 1.Review and revise topics from Monday(02-12-2024) to Friday(06-12-2024)
+
 (Evening):-
-2.Js Practice Questions
+Js Practice Questions
+
   1.Print numbers from 1 to 10
+
   2.Print the odd numbers less than 100
+
   3.Print the multiplication table with 7
+
   4.Print all the multiplication tables with numbers from 1 to 10
+
   5.Calculate the sum of numbers from 1 to 10
+
   6.Calculate 10! 
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
@@ -135,32 +145,53 @@ positive numbers
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
 Date = 13-12-2024 (Friday)
+
 Topics Covered :- Js Practice Question
+
 (Morning) :-
 
 30.Create a function that will add two positive numbers of indefinite size. The numbers are received as strings 
-  and the result should be also provided as string.
+and the result should be also provided as string.
+
 31.Create a function that will return the number of words in a text
+
 32.Create a function that will capitalize the first letter of each word in a text
+
 33.Calculate the sum of numbers received in a comma delimited string
+
 34.Create a function that returns an array with words inside a text.
+
 36.Create a function that converts a string to an array of characters
+
 37.Create a function that will convert a string in an array containing the ASCII codes of each character
+
 38.Create a function that will convert an array containing ASCII codes in a string
+
 40.Implement the bubble sort algorithm for an array of numbers
+
 41.Create a function to calculate the distance between two points defined by their x, y coordinates
+
 42.Create a function that will return a Boolean value indicating if two circles defined by center coordinates and radius are intersecting
+
 43.Create a function that will receive a bi-dimensional array as argument and a number and will extract as a unidimensional array the column specified by the number
+
 44.Create a function that will convert a string containing a binary number into a number
+
 45.Create a function to calculate the sum of all the numbers in a jagged array(contains numbers or other arrays     of numbers on an unlimited number of levels)
+
 48.Create a function to return the longest word in a string
+
 49.Shuffle an array of strings
+
 51.Find the frequency of letters inside a string. Return the result as an array of arrays. Each subarray has 
  2elements: letter and number of occurrences.
+
 52.Calculate Fibonacci(500) with high precision (all digits)
+
 53.Calculate 70! with high precision (all digits)
 
 (Evening) :-
+
 1. Arrays and Array methods and custom array
 
 
