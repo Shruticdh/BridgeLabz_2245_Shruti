@@ -14,7 +14,7 @@ let str = arr3.join(', ');
 console.log(str); 
 
 // slice() - Array ka shallow copy banata hai given range mein.
-let sliced = arr.slice(1, 3);  // Extracts elements from index 1 to 2
+let sliced = arr.slice(3);  // Extracts elements from index 1 to 2
 console.log(sliced); 
 
 // keys() - Array ke indices ka iterator return karta hai.

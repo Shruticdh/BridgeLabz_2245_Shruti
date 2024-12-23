@@ -45,7 +45,16 @@ class Queue
     {
         return this.queue.length; 
     }
+    print2(){
+        let arr =[];
+        for(let i=2; i>0; i--){
+            arr.push(queue.enqueue(i))
+        }
+        return arr;
+    }
 }
+
+
 
 
 const queue=new Queue();
@@ -53,7 +62,7 @@ const queue=new Queue();
 queue.enqueue(10);  
 queue.enqueue(20); 
 queue.enqueue(30);  
-
+console.log(queue.print2()); 
 console.log(queue.peek());   
 console.log(queue.size());   
 console.log(queue.dequeue()); 
