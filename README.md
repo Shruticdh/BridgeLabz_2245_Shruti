@@ -71,7 +71,8 @@ Topics Covered :-
 **Date = 09-12-2024 (Monday)**
 
 Topics Covered :-
-1.Review and revise topics from Monday(02-12-2024) to Friday(06-12-2024) 
+1. Review and revise topics from Monday(02-12-2024) to Friday(06-12-2024) 
+2. IIFE, NFE, The "new Function" syntax, Scheduling
 
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
