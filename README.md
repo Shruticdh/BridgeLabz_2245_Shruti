@@ -249,7 +249,7 @@ Topics Covered :-
 
 Topics Covered :-
 
-(Moring and Evening) :-  Review taken 
+(Morning and Evening) :-  Review taken 
 
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
@@ -289,7 +289,21 @@ Topic Covered :-
 
 Topics Covered :-
 
-(Moring and Evening) :-  Review taken 
+(Morning and Evening) :-  Review taken 
+
+
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
+
+
+**Date = 24-12-2024 (Tuesday)**
+
+Topics Covered :-
+
+(Morning) :-  Review taken 
+
+(Evening) :-  Revised DSA and Review Questions
+
+
 
 
 
