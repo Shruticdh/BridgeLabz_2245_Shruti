@@ -8,6 +8,11 @@
 //     print(){
 //         console.log(this.queue);
 //     }
+
+//     sort(){
+//         return this.queue.sort();
+//     }
+
 //     reverse(){
 //         let arr = [];
 //         for(let i=5; i>=0; i--){
@@ -54,13 +59,21 @@
 // qu.enqueue(5);
 // qu.enqueue(6);
 // qu.enqueue(7);
-// qu.enqueue(8);
 // qu.enqueue(9);
-// qu.enqueue(10);
+// qu.enqueue(8);
 
 // qu.print();
-
+// console.log(qu.sort());
 // console.log(qu.reverse());
+
+
+
+
+
+
+
+
+
 
 class Queue {
     constructor() {
@@ -140,5 +153,4 @@ qu.enqueue("qwerty");
 // qu.enqueue("qwerty2");
 
 console.log(qu.print());
-
 
