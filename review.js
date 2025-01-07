@@ -22,19 +22,16 @@ function merge(l,r){
     }
     return newarr.concat(l,r);
 }
-
 let sortarr = mergesort(arr);
 console.log(sortarr);
 
 
-
-let max = 5;
+let max = 3;
 function findmax(sortarr , max){
     if(max){
         console.log(sortarr[sortarr.length - max]);
     }
 }
-
 findmax(sortarr, max);
 
 
