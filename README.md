@@ -543,26 +543,67 @@ Topics Covered :-
 1) Promises chaining
 2) Promises
 3) Promise API
-4) Error handling with promises
-5) Custom errors
-6) extending Error
+
+
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
+
+**Date = 10-01-2025 (Friday)**
+Topics Covered :-
+
+1) Promises chaining
+2) Promises
+3) Promise API
+
+**Done Uses Cases or Problem statements on these topics**
 
 
 *----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
 
+**Date = 13-01-2025 (Monday)**
+Topics Covered :-
+
+1) Error handling with promises
+2) Custom errors
+3) extending Error
 
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
+
+**Date = 14-01-2025 (TuesDay)**
+Topics Covered :-
+
+1) Error handling with promises
+2) Custom errors
+3) extending Error
+
+**Done Uses Cases or Problem statements on these topics**
+
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
 
+**Date = 15-01-2025 (WednesDay)**
+Topics Covered :-
+
+(Morning and Evening) :-  Review taken 
 
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
 
+**Date = 16-01-2025 (Thursday)**
+Topics Covered :-
 
+1) Promisification, 
+2) Async/await
+3) Currying
+4) Microtasks
 
+*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*----------*---------*----------
 
+**Date = 17-01-2025 (Friday)**
 
+Typescript started in Typescript Branch
 
 
 
